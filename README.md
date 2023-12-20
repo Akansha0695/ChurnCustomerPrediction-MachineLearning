@@ -44,4 +44,6 @@ ____________________________________________VARIABLE DESCRIPTIONS OF DATAFRAME B
 
 **Evaluation**: Model performance is evaluated using metrics such as precision, recall, and F1-score. Various pruning techniques are applied to enhance model accuracy and reduce overfitting.
 
-**Conclusion**: The project concludes with a detailed analysis of the best-performing algorithms on the given dataset. AdaBoostClassifier, GradientBoostingClassifier, and XGBClassifier emerge as the most effective models for predicting customer churn.
+                                                      Conclusion
+                                                      
+The project concludes with a detailed analysis of the best-performing algorithms on the given dataset. AdaBoostClassifier, GradientBoostingClassifier, and XGBClassifier emerge as the most effective models for predicting customer churn.
